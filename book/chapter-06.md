@@ -9,3 +9,14 @@
 - Answering the previous type of question using: ～のほうが～です
 - Already / not yet done something: もう、　まだ
 - "How about...?", "How is...?" using どうですか
+
+## Asking to do something together
+
+> いっしょに　うたいませんか。
+
+_Shall we sing together?_
+
+- `いっしょに` - together
+- `〜ませんか` - shall we? (literally more like "should not?")
+
+To suggest doing something together, we use `いっしょに` and the negative ます-Form of the verb.
