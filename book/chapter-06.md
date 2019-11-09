@@ -38,6 +38,8 @@ To suggest doing something together, we use いっしょに and the ません-fo
 
 ## Let's do it!
 
+### Examples
+
 > そうしましょう。
 
 _Let's do it!_
