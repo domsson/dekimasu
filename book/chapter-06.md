@@ -12,6 +12,8 @@
 
 ## Asking to do something together
 
+### Examples
+
 > いっしょに　うたいませんか。
 
 _Shall we sing together?_
@@ -24,8 +26,12 @@ _Shall we go to Hokkaido together?_
 
 _Shall we eat sushi together?_
 
+### Vocab / phrases
+
 - `いっしょに` - together
 - `〜ませんか` - shall we 〜? (literally more like "should not?")
+
+### Summary
 
 To suggest doing something together, we use いっしょに and the ません-form 
 (negative ます-form) of the verb plus か.
@@ -44,7 +50,11 @@ _Let's go!_
 
 _Let's eat!_
 
+### Vocab / phrases
+
 - `〜ましょう` - let's 〜!
+
+### Summary
 
 To enthusiastically suggest an activity or positively reply to a suggestion, 
 we use the ましょう-form of the verb or simply そうしましょう.
